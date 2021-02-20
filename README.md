@@ -3,6 +3,8 @@ Project for SE101.
 
 # What is LooRider
  LooRider is a two wheel self-driving arduino car which finds the shortest path from its intial position to its destination on a changeable map.
+
+![visual](looRider.gif)
   
 # Software Components
 * Image localization and processing of a physical maze(grid)
